@@ -25,7 +25,11 @@ SECRET_KEY = 'django-insecure-lh)ze(m7^_&2w)-#dlsurhf*48qd-xpj*0i63l1ath%f-%+@(5
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'django-jade-one.vercel.app',
+    '127.0.0.1',
+    'localhost',
+]
 
 
 # Application definition
