@@ -27,8 +27,9 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'django-jade-one.vercel.app',
-    '127.0.0.1',
+    'django-3wm1mvewp-sai-mohiths-projects.vercel.app',
     'localhost',
+    '127.0.0.1',
 ]
 
 
